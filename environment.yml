@@ -10,8 +10,4 @@ dependencies:
     - pandas
     - thinc
     - requests
-    - fake-useragent
-    - scrapy
-    - url
-    - tornado
-    - pyspider
+    
