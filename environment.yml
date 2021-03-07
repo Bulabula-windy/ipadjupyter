@@ -13,5 +13,4 @@ dependencies:
     - fake_useragent
     - scrapy
     - cookies
-    - threading
     - queue
