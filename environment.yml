@@ -13,3 +13,5 @@ dependencies:
     - fake_useragent
     - scrapy
     - cookies
+    - bs4
+    - pandas
